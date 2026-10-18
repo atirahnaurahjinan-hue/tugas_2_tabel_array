@@ -15,7 +15,7 @@
     </div>
 
     <?php
-    // Array multidimensi berisi daftar menu Bali
+
     $menu_restoran = [
         [
             "no" => 1,
